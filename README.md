@@ -12,4 +12,10 @@ This tool is only to be used with explicit permission from the sending domain. I
 
 Lots of cool stuff built into this, you can specify the rhost, attachments, sender address, recipient file (emails one per line), ect. Im done for today Cheers!
 
+-------Update-------
+Today is 10/11/2024
+I have submitted the issue to Microsoft, due to the general lack of acknowledgement of the issue, I've decided to release this tool to the public.
 
+Cox Offensive Security is not legally responsible for the use of this tool, this tool should only be used on O365 tenants you have permission to assess/use/test/ect.
+
+Enjoy!
