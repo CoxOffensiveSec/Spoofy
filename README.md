@@ -1,14 +1,4 @@
-
- _____                        __        
-/  ___|                      / _|       
-\ `--.  _ __    ___    ___  | |_  _   _ 
- `--. \| '_ \  / _ \  / _ \ |  _|| | | |
-/\__/ /| |_) || (_) || (_) || |  | |_| |
-\____/ | .__/  \___/  \___/ |_|   \__, |
-       | |                         __/ |
-       |_|                        |___/ 
-
-Spoofy!
+**SPOOFY!!**
 
 I created this tool during an external penetration test with a scope limited to only o365.
 
